@@ -1,0 +1,4 @@
+segment,total_customers,total_orders,total_revenue,revenue_per_customer,orders_per_customer
+Consumer,4,9,8786.55,2196.64,2.3
+Corporate,3,6,8300.15,2766.72,2
+SMB,3,7,6724.07,2241.36,2.3

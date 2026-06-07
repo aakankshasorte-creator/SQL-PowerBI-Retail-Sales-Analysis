@@ -1,0 +1,7 @@
+region,total_orders,total_revenue,avg_order_value,returns,return_rate_pct
+South,8,10381.67,648.85,2,25
+Scotland,5,5142.17,514.22,0,0
+North,5,4828.83,482.88,0,0
+South West,3,2887.8,481.3,0,0
+Midlands,2,1587.39,396.85,2,100
+Wales,2,1455.34,363.84,0,0

@@ -1,0 +1,11 @@
+customer_name,segment,city,total_orders,lifetime_value,first_order,last_order,customer_lifespan_days
+James Wilson,Corporate,London,3,4905.91,10/01/2023,20/11/2023,314
+Raj Patel,Consumer,Bristol,3,2887.8,02/04/2023,25/01/2024,298
+Tom Richards,Corporate,Leeds,2,2668.88,05/03/2023,08/01/2024,309
+David Chen,SMB,Edinburgh,3,2622.23,08/02/2023,18/12/2023,313
+Emma Davis,SMB,Glasgow,2,2519.94,18/03/2023,12/09/2023,178
+Nina Brown,Consumer,Liverpool,2,2469.9,20/05/2023,02/11/2023,166
+Priya Sharma,Consumer,Manchester,3,2358.93,25/01/2023,05/12/2023,314
+Ali Hassan,SMB,London,2,1581.9,01/05/2023,15/10/2023,167
+Sarah Ahmed,Consumer,Birmingham,1,1069.92,30/08/2023,30/08/2023,0
+Lucy Thompson,Corporate,Cardiff,1,725.36,28/09/2023,28/09/2023,0
